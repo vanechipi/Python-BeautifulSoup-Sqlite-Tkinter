@@ -5,8 +5,8 @@ Created on 22/2/2015
 
 @author: Vanessa
 '''
-#a= {"Vanessa Chipirras Navalon" : [657313509,954061150], "Mar Chipirras Navalon" : 635839757, "Carlos Falgueras Garcia" : 644595399}
-a= {"Vanessa Chipirras Navalon" : 657313509, "Mar Chipirras Navalon" : 635839757, "Carlos Falgueras Garcia" : 644595399}
+#a= {"Vanessa Chipirras Navalon" : [657313509,954062050], "Mar Chipirras Navalon" : 635861557, "Carlos Falgueras Garcia" : 644550399}
+a= {"Vanessa Chipirras Navalon" : 657313509, "Mar Chipirras Navalon" : 635856757, "Carlos Falgueras Garcia" : 644595599}
 
 def agendaContinue(nombre, agenda):
     lista= []
